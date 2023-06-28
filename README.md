@@ -25,7 +25,8 @@ and follow the steps!
 ### Please familiarize yourself with the above notebook before trying anything else!
 Listed below are some more advanced or experimental notebooks:
 
-- This notebook is essentially the same as `easy_colab.ipynb` except for some additional Google Drive capabilities. Most importantly automatically saving of the  NAM file \
-  /n lolol drive capable_colab.ipynb [`drive capable_colab.ipynb` on Google Colab](https://colab.research.google.com/github/d-Vincent-b/NeuralAmpModeler-ColabNotebooks/blob/main/train/drive capable_colab.ipynb)
+- This notebook is essentially the same as `easy_colab.ipynb` except for some additional Google Drive capabilities. Most importantly automatically saving `exported_models` and `lightning_logs` to your Google Drive, fixing the inactivity issue mentioned above \  
+[`Drive capable colab.ipynb` on Google Colab](https://colab.research.google.com/github/d-Vincent-b/NeuralAmpModeler-ColabNotebooks/blob/main/train/drivecapable_colab.ipynb)
   
-- Daily usage limit.
+- Adaptation of Mike Oliphants notebook, allows for custom model configs. (currently not working, would require changes to `train/core.py` and `train/colab.py` in the main code/repo) \
+[`Custom colab.ipynb` on Google Colab](https://colab.research.google.com/github/d-Vincent-b/NeuralAmpModeler-ColabNotebooks/blob/main/train/custom_colab.ipynb)
