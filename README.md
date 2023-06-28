@@ -22,4 +22,10 @@ For the very easiest experience, open
 [`easy_colab.ipynb` on Google Colab](https://colab.research.google.com/github/d-Vincent-b/NeuralAmpModeler-ColabNotebooks/blob/main/train/easy_colab.ipynb)
 and follow the steps!
 
-### Please familiarize yourself with the above notebook before trying anything else####
+### Please familiarize yourself with the above notebook before trying anything else!
+Listed below are some more advanced or experimental notebooks:
+
+- This notebook is essentially the same as `easy_colab.ipynb` except for some additional Google Drive capabilities. Most importantly automatically saving of the  NAM file \
+  /n lolol drive capable_colab.ipynb [`drive capable_colab.ipynb` on Google Colab](https://colab.research.google.com/github/d-Vincent-b/NeuralAmpModeler-ColabNotebooks/blob/main/train/drive capable_colab.ipynb)
+  
+- Daily usage limit.
